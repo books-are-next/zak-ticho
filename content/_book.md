@@ -1,36 +1,40 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Ticho
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: David Jan Žák
+  publisher: Městská knihovna v Praze
+  modified: '2020-01-27T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - ticho_001.html
+  - ticho_002.html
+  - ticho_003.html
+  - ticho_004.html
+  - ticho_005.html
+  - ticho_006.html
+  - ticho_007.html
+  - ticho_008.html
+  - ticho_009.html
+  - ticho_010.html
+  - ticho_011.html
+  - ticho_012.html
+  - ticho_013.html
+  - ticho_014.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
