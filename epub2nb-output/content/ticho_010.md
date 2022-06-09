@@ -3,8 +3,6 @@ title: "Světlo a\_tma"
 contentType: prose
 ---
 
-  
-
 Ve Volarech se všechno odehrálo jako ve zrychleném filmu. Busty i ostatní práce byly vypálené, učitel Pavel je právě nakládal do svého vozu, chtěl je Slepýšovi zavézt. Vytáhl čtyři portréty. Nehledal je dlouho. Choval se nenuceně, dokonce i zavtipkoval. Asi neviděl zprávy. Jinak by ty dvě zavražděné poznal. Snad. Pokud jsou ovšem podobné fotografiím z televize. Slepýš zapochyboval i o těchto portrétech. Co když ztratil schopnost tvořit? Co když už nedokáže vymodelovat podle hlasu pravou podobu člověka? V myšlenkách se však dostával čím dál častěji k očekávanému zásahu policie. Předpokládal, že se náhle ozve kvílení pneumatik, pak vyskočí celá horda ozbrojených policistů, zařvou: „Ruce vzhůru, jste obklíčen!“ nebo tak nějak podobně a spadne klec. Místo toho byl kolem školního dvora naprostý klid, jen sníh křupal pod nohama. Muž si naložil své čtyři dívčí portréty do auta, rozloučil se, ještě potřásl učiteli i Slepýšovi rukou, popřál šťastné a veselé a byl pryč. Jen ledový pot z jeho dlaně zůstal na Slepýšových prstech. I při loučení se mu třásla ruka. Podával ji jak leklou rybu.
 
 Pavel odvezl Slepýše zpátky do vsi. Pomohl mu vynést do ateliéru vypálené nádoby, většinou keramické šálky, vázy a hrníčky. Mezi nimi trůnily jen dva portréty, pro které si přijede zákazník až odněkud z Mnichova.
@@ -37,7 +35,9 @@ Byl zmatený. Vždyť přece zaslechl, jak si Madla na švagra stěžuje. Ničem
 
 Poslední mámina slova, která zaslechl ve chvíli, kdy zavíral dveře do pokoje, ho štípla jako bodnutí vosího žihadla. Musí si lehnout. Je unavený. Strašně unavený. Nic není na svém místě. Ani on.
 
-Na silnici leží silná vrstva rozbředlého sněhu. Spodní část je namrzlá, stačí jen trochu přibrzdit a vůz dostává hodiny. Musí jet opatrně. Nový a nový sníh. Sype se. Stěrače jsou zapnuté naplno.
+  
+
+_Na silnici leží silná vrstva rozbředlého sněhu. Spodní část je namrzlá, stačí jen trochu přibrzdit a vůz dostává hodiny. Musí jet opatrně. Nový a nový sníh. Sype se. Stěrače jsou zapnuté naplno._
 
 _Odbočí z hlavní výpadovky, která dál vede přes Lenoru k hraničnímu přechodu Strážný–Philippsreut, a sjíždí k Soumarskému mostu. Tady není cesta prohrnutá. Před ním muselo projet auto, vyjeté koleje se zřetelně rýsují v hladké, asi deseticentimetrové vrstvě sněhu. Před každým stoupáním podřadí. Málem zůstává viset v kopci. Kola podkluzují. Nakonec se přece jen dostává na rovinku a může jet dál. Cedule s označením DOBRÁ 1 KM je z poloviny zakryta nalepeným sněhem, který sem navál vítr. Čeká ho poslední delší stoupání. Vůz nabírá rychlost, vklouzává do už vyjetých kolejí a nakonec se ocitá ve vsi. Před hospodou, v ostré zatáčce se zrcadlem zahne doleva a sjíždí ke značce KONEC OBCE. Za ní se tyčí temný dům. Číslo popisné 26. Vůz nechává stát u krajnice s rozsvícenými výstražnými světly. Vystupuje a prochází kolem zasněžené hromady zeminy. Musí jít opatrně, fošny vytažené z kolny teď tvoří bílou hradbu a člověk si nemůže být jist, kam šlápne. Vchodové dveře jsou zamčené. Zadní také. Je překvapený, že ho nevítá Šaman. Chvíli se rozhoduje, zda by neměl zazvonit, prsty pravé ruky se nakonec od zvonku odtahují a on vyráží zpátky k vozu. Nastoupí. Nastartuje. Vůz pomalu sklouzne z kopce a jako saně se sune po zasněžené ploše. Je vidět, že tudy projelo v poslední půlhodince několik aut._
 
@@ -61,7 +61,9 @@ _Když se na sebe Slepýš podívá pozorněji, zjistí, že je žena._
 
 Slepýš měl velkou žízeň. Šel se napít z kohoutku v koupelně. Pokoj se nořil do tmavě šedivé clony. Nerozsvěcel. Nepotřeboval světlo. Cestu od postele do koupelny znal zpaměti, stejně jako všechny cesty po domě. Učil se je dva roky. Dva roky strávil tím, že si vše osahával, počítal kroky. Tak se naučil i všechny ostatní trasy z domu ven.
 
-Marek běží zpátky do kanceláře, ze skříně bere i druhou nahrávku. Zkouší zavolat Madle, neúspěšně.
+  
+
+_Marek běží zpátky do kanceláře, ze skříně bere i druhou nahrávku. Zkouší zavolat Madle, neúspěšně._
 
 _Jede přes město až k Dlouhému mostu. Čeká na semaforech. Zelená. Míří dál kolem Výstaviště a vysokoškolských kolejí k sídlišti Máj. Tam bydlí v jednom z paneláků jeho kolega, je o necelých pět let starší než Marek. Má však nižší hodnost. Do oddělení vražd nastoupil později. Kolegové si z nich dělají legraci, prý jsou jak dvojka z grotesky – jeden obr a s ním kulaťoučký skrček, dvojka k pohledání, bratři v triku. Už čeká před panelákem, ještě dojídá kus řízku s chlebem. Brada se leskne mastnotou jako slída v mokrém kameni. Nasedá._
 
@@ -95,7 +97,9 @@ _„Jako vždycky anonym. Prej ji viděli s ňákým Douchou.“_
 
 _„To nám scházelo, Doucha je zdejší opilec. Uvidíme, co nám řeknou místní.“_
 
-Tlouštík vytahuje z kapsy zabalenou svačinu. Dva silné krajíce chleba a mezi nimi krvavou tlačenku.
+  
+
+_Tlouštík vytahuje z kapsy zabalenou svačinu. Dva silné krajíce chleba a mezi nimi krvavou tlačenku._
 
 _„Běž s tím do prdele! Zasmradíš to tu vždycky nějakou prasárnou!“_
 
@@ -105,7 +109,9 @@ _„Chceš kousnout? Dám ti kousnout, jestli teda chceš?“_
 
 _„Nechci. Koukej dožvejkat, ať můžu zavřít okno.“_
 
-Okna domů jsou temná. Matným světlem svítí jen pouliční lampy. Vedle hospody se černá kamenná zeď hřbitova s kovanou mříží coby vchodem do hájemství nebožtíků, kde panuje ticho.
+  
+
+_Okna domů jsou temná. Matným světlem svítí jen pouliční lampy. Vedle hospody se černá kamenná zeď hřbitova s kovanou mříží coby vchodem do hájemství nebožtíků, kde panuje ticho._
 
 _Oba kriminalisté spatří stín. Prudce se odlepí od kmene jilmu. Stín se krade podél zdi. Marek brzdí. Ze stínu se klube válcovitá postava s brunátným obličejem. Namol opilý mladý Doucha se vrací do své maringotky. Kymácí se ze strany na stranu a svého jezevčíka Emila drží za ocas. Pes visí přes rameno._
 
@@ -177,7 +183,9 @@ _„Zaskočím si jenom umýt tu ruku… sakra… to nebylo hovno! To je krev!�
 
 Slepýš prošel temným pokojem. Usedl na pelest postele. Byl rozrušený. Cítil v hrudi nesnesitelné napětí. Netušil proč. Raději znovu ulehl. Oči měl otevřené. Kdyby viděl, zíral by do stropu.
 
-Muž leží na sněhu. Prsty šátrají po hrudi. Kašle krev. Opírá se o levý loket. Pravou rukou křečovitě rozepíná bundu. Na levém boku má bolestivou podlitinu. Nemůže popadnout dech. S hlubším nádechem mu do plic zajíždí ledová jehla. Pokouší se vstát. Nejde to. Raději se plazí po čtyřech směrem, kde vidí siluety stromů.
+  
+
+_Muž leží na sněhu. Prsty šátrají po hrudi. Kašle krev. Opírá se o levý loket. Pravou rukou křečovitě rozepíná bundu. Na levém boku má bolestivou podlitinu. Nemůže popadnout dech. S hlubším nádechem mu do plic zajíždí ledová jehla. Pokouší se vstát. Nejde to. Raději se plazí po čtyřech směrem, kde vidí siluety stromů._
 
 _Slepýš jde k autu, otevírá kufr a vytahuje digitální kameru a lo­veckou brokovnici. Zapíná kameru. Brokovnici drží v pravém podpaží, prst připravený na kohoutku. Jde po stopě plazícího se muže. Sedí opřený o kmen javoru a míří na Slepýše pistolí. Něco křičí do mobilu. Třesknou dva výstřely. Jejich zvuk se slije do jednoho táhlého štěknutí. Mužovo tělo dál sedí opřené o strom, jen krk a obličej hyzdí drobné krvavé rány. Telefon se rozprskl o strom. Hlaveň brokovnice zajíždí do sněhu. Slepýš loví v kapse bundy. Zazní ještě dva výstřely z dámského revolveru a zanechají stopu na mužově břichu a hrudi. Vrací se i se zbraní k chalupě. Oklepe sníh z bot a vejde._
 
@@ -185,7 +193,9 @@ _Slepýš jde k autu, otevírá kufr a vytahuje digitální kameru a lo­veck
 
 Slepýš nemohl usnout. Převaloval se. Vzdychal. Po chvíli vstal, pře­vlékl se a přešel do ateliéru. Nerozsvěcel. Rozhodl se pracovat. Vzal hlínu a hnětl ji. Snad aspoň tady přijde na jiné myšlenky a ta úzkost zmizí. Snad.
 
-Marek drží mobilní telefon a vytáčí číslo ze seznamu. Netuší, že se mu snaží dovolat Madla. Utíká pěšinou podél řeky. Chce uniknout muži, který byl milencem obou zavražděných dívek.
+  
+
+_Marek drží mobilní telefon a vytáčí číslo ze seznamu. Netuší, že se mu snaží dovolat Madla. Utíká pěšinou podél řeky. Chce uniknout muži, který byl milencem obou zavražděných dívek._
 
 _„Slepýši, jsi tam?“_
 
@@ -383,7 +393,9 @@ _Kriminalisté stojí uprostřed vybaveného sadomasochistického salonu._
 
 Kladl hliněné hádky jeden na druhý. Pracoval rychle. Začal se potit. Čelo měl orosené a cítil čůrky stékající z podpaží k bokům. Rukama špinavýma od hlíny se svlékl. Odhodil pracovní plášť i triko. Modeloval do pasu nahý.
 
-Výstup je náročný. Co chvíli se propadá sněhem mezi zledovatělé kameny. Podrážky bot kloužou. Kolem trčí pahýly stromů. Vidět je daleko. Nic nestojí ve výhledu.
+  
+
+_Výstup je náročný. Co chvíli se propadá sněhem mezi zledovatělé kameny. Podrážky bot kloužou. Kolem trčí pahýly stromů. Vidět je daleko. Nic nestojí ve výhledu._
 
 _Nerozhlíží se, dívá se jen pod nohy. Když se dostává konečně na rovinu vedle tiché restaurace na Třístoličníku, je zadýchaný a po těle mu stékají potoky potu. Brodí se dál po hřebenu směrem na Trojmezí a Plechý. Nohy až po kolena zapadají do čerstvé krusty sněhu. Hluboké stopy ho vedou stále kupředu. Občas musí přelézt spadlý kmen suchého stromu a několikrát, když mu noha pod sněhem zapadne mezi skryté balvany, vytáhne jen nohu zabalenou do promáčené ponožky, bota zůstává trčet tam dole. Šedivý příkrov noci se pomalu barví do žluté, která přechází v azurovou modř. Mrazivý vzduch štípe do plic. Pokožka na tváři je sytě červená. Před ním jde žena. Má svázané ruce za zády. To ona mu vyšlapává cestu. Teď padá na tvář. Na čele se objevuje krev. Slepýš si opět s překvapením uvědomuje, že je ženou. Na rukou má pletené prstové rukavice. V levé ruce svírá dámský revolver a v pravé drží digitální kameru. Natáčí Madlino utrpení. Holé uschlé kmeny smrků stojí jeden vedle druhého, jak zapíchaná obří párátka. Všude je ticho. Jen dvě ženy se brodí sněhem. Slepýš a Madla._
 
@@ -473,7 +485,9 @@ _Nad jezerem vládne ticho._
 
 Unavil se. Často zíval. Bustu nechal nedodělanou, jen ji přikryl vlhkým hadrem a igelitem. Šel do koupelny. Umyl si ruce, opláchl obličej a znovu si vyčistil zuby. V pokoji se převlékl do pyžama a uložil se ke spánku. Na budíku nahmatal půl šesté. Nevěděl, jestli je ráno, nebo večer. Usnul rychle. Přesunul se na bok a cosi nesrozumitelného vykřikl. Zašermoval rukou před nevidomýma očima. Kvantový fyzik měl pravdu, on opravdu vidí.
 
-Marek stojí opřený o zábradlí a dívá se dolů k jezeru. Chvěje se. Za jeho zády se tyčí Stifterův pomník. Tam dole v hlubině leží jeho žena Madla. Její nahé tělo je srostlé s tělem temné Diany, lovkyně, která ráda ubližovala mladým dívkám. Marek ještě dnes podá výpověď. Prodá dům v Havlíčkově kolonii a odjede na Šumavu, kde si pronajme chalupu.
+  
+
+_Marek stojí opřený o zábradlí a dívá se dolů k jezeru. Chvěje se. Za jeho zády se tyčí Stifterův pomník. Tam dole v hlubině leží jeho žena Madla. Její nahé tělo je srostlé s tělem temné Diany, lovkyně, která ráda ubližovala mladým dívkám. Marek ještě dnes podá výpověď. Prodá dům v Havlíčkově kolonii a odjede na Šumavu, kde si pronajme chalupu._
 
 _Čas se zklidní a zapluje do vyšlapaných úzkých pěšin. Lidé ze vsi už zas budou řešit běžné každoroční problémy. Přejde třetí adventní neděle, pak celý týden. Během poslední adventní neděle se sejdou před hospodou. Bude po poledni. Ženské vytáhnou krabice plné vánočního pečiva. Pro děti. Dají si k tomu horký čaj s medem, dospělí svařené víno a mužští slivovici. Nejlepší pečivo napeče Slepýšova matka. Usadí se vedle svého muže na dřevěné lavici pokryté ovčí kůží. Pokývne hlavou a nepřítomně se usměje. Opře se o mužovo rameno. Obejme ji. Budou usrkávat horký nápoj a dívat se do padajících vloček._
 
@@ -523,7 +537,9 @@ _„Dobře, vyrazíme,“ říká Standa, „předtím mi pomůžeš rozprášit
 
 _Slepýš vstává ze židle, obejme přítele, sedícího dál v křesle. Standovi stékají po neholené tváři slzy. Potom se narovnává, přistupuje ke gramofonu. Nadzvedne víko, připomíná víko rakve. Naposledy vkládá na kotouč gramofonu černou vinylovou desku – Dvořákovu Novosvětskou._
 
-Dvě postavy jdou tajícím sněhem. V příkopu u cesty už bublá voda. Je teplo.
+  
+
+_Dvě postavy jdou tajícím sněhem. V příkopu u cesty už bublá voda. Je teplo._
 
 _Standa zastavuje. Sotva popadá dech. Slepýš čeká._
 
@@ -577,7 +593,9 @@ _„S vraždami ne, ale třeba si myslel, že to všechno dělal ten makléř, 
 
 _„Ne, ne, nikdo z našich jí nepomáhal, věř tomu, Slepýši, z našich určitě nikdo.“_
 
-Standa přenechá hospodu synovi. Dá mu i dům. Sám žije v malé garsoniéře nad hospodou.
+  
+
+_Standa přenechá hospodu synovi. Dá mu i dům. Sám žije v malé garsoniéře nad hospodou._
 
 _Marek se změní. Mlčí. Čte knihy. Nad stránkami sedává pod větvemi stromů na březích Vltavy nebo v lesních zákoutích, kam lidé nechodí. U postele mívá kopičku rozečtených románů a povídek, většinou šumavských autorů – Stiftera, Klostermanna, Urzidila… Hodně peněz utrácí za staré pohlednice Šumavy. Má několik alb, do nichž je ukládá. Nesbírá je však tak jako ostatní sběratelé; než pohlednici koupí, musí jej něčím oslovit – místem, atmosférou, lidmi. Sedává pak nad nimi a píše v náhlé inspiraci jakési postřehy._
 
@@ -589,7 +607,9 @@ _Komplice, který vražedkyni pomáhal, policie nedopadne. Těla dvou žen se po
 
 _Sochař má víc zakázek, než je mu milé. Nejraději modeluje vázy a ozdobné nádoby. Busty dělá s nechutí. Nakonec s nimi skončí úplně. Posledních šest portrétů vytvoří pro své blízké. Vymodeluje Madlu, svou matku, otce, Marka, Standu a Šamana._
 
-Od onoho pondělního odpoledne a úterního rána po druhé adventní neděli uběhne devět měsíců. Devět měsíců, co trvá u žen těhotenství a ony pak porodí nový život do starého světa. Standu zlobí kyčle, chůze mu dělá problémy, silná artróza v koleni. Objeví se v ateliéru, jak mívá ve zvyku, a celé dopoledne jen sedí a pozoruje Slepýše při práci. Poslouchají černé desky.
+  
+
+_Od onoho pondělního odpoledne a úterního rána po druhé adventní neděli uběhne devět měsíců. Devět měsíců, co trvá u žen těhotenství a ony pak porodí nový život do starého světa. Standu zlobí kyčle, chůze mu dělá problémy, silná artróza v koleni. Objeví se v ateliéru, jak mívá ve zvyku, a celé dopoledne jen sedí a pozoruje Slepýše při práci. Poslouchají černé desky._
 
 _„Potřebuju, abys mě tam zas odvedl,“ řekne Slepýš._
 
@@ -947,7 +967,9 @@ Kdyby nebyl Slepýš slepý, byl by spatřil stín, který se prudce odlepil od 
 
 Slepýš se konečně odhodlal pustit zdi a vyjít křižovatkou dolů, kde někde ve tmě stála jejich chalupa. Svět se točil a on se potácel od krajnice ke krajnici. Chumelilo. Než upadl do návěje sněhu na hranici mezi světlem a tmou, napadlo ho, proč vedle něj není Šaman. Slepýš ležel v hromadě sněhu vedle silnice. Zabořil se do něho jako rozžhavený ingot. Vločky tělo rychle zasypávaly novými a novými přívaly.
 
-Stojí na území tmy, tam, kde už světlo pouliční lampy nemá žádnou moc. Je pod vysokým smrkem u zasněženého výkopu, který nechal otec udělat, aby tak vyčistil strouhu u plotu. Voda se každé jaro hromadí a nemá kudy odtékat. Otec sem dal skruže a svedl vodu do kanálu, co jím protékají splašky pod silnicí. Vlhká vůně zeminy udeří Slepýše do nosu. Shýbá se, aby nabral sníh do hrsti a mohl jej promnout mezi prsty. Klekne si. V ten moment zaslechne zpoza rohu přešlápnutí. Nikdo jiný, kromě Slepýše, by si něčeho takového nevšiml, ale jeho vycvičený sluch registruje každý šelest. Zpozorní a zůstává klečet nad zasněženou hromadou hlíny. Pod kolenem cítí kamínky štěrku. Tady na území Národního parku Šumava se nesmí silnice solit, silničáři používají na zledovatělé vozovce jen štěrk, nic víc. Po okrajích vozovky leží šedivé pruhy plné drobných křemenitých kousků.
+  
+
+_Stojí na území tmy, tam, kde už světlo pouliční lampy nemá žádnou moc. Je pod vysokým smrkem u zasněženého výkopu, který nechal otec udělat, aby tak vyčistil strouhu u plotu. Voda se každé jaro hromadí a nemá kudy odtékat. Otec sem dal skruže a svedl vodu do kanálu, co jím protékají splašky pod silnicí. Vlhká vůně zeminy udeří Slepýše do nosu. Shýbá se, aby nabral sníh do hrsti a mohl jej promnout mezi prsty. Klekne si. V ten moment zaslechne zpoza rohu přešlápnutí. Nikdo jiný, kromě Slepýše, by si něčeho takového nevšiml, ale jeho vycvičený sluch registruje každý šelest. Zpozorní a zůstává klečet nad zasněženou hromadou hlíny. Pod kolenem cítí kamínky štěrku. Tady na území Národního parku Šumava se nesmí silnice solit, silničáři používají na zledovatělé vozovce jen štěrk, nic víc. Po okrajích vozovky leží šedivé pruhy plné drobných křemenitých kousků._
 
 _A zase. Dva kroky, třetí. Sníh zakřupe. Za domem někdo stojí a vyčkává. Kde je Šaman? Proč neštěká? Slepýš slyší přešlapování, jako když se někdo na místě zahřívá, pak pohyb nohou, ten člověk míří ze strany domu k zadnímu vchodu; v ten okamžik ty kroky pozná._
 
@@ -971,7 +993,9 @@ _Že by se mu to všechno jen zdálo? Že by si strachem vybičovaná mysl ty kr
 
 _Naposledy v den svatby, nemohl se s ní smířit. Cítil se osamělý, tak osamělý, že utekl z domu ještě před svítáním…_
 
-Dveře automobilu se otevírají a řidič vystupuje ven z vozu. Slepýš slyší, jak si v dlani pohrává s klíči, téměř neslyšně do sebe narážejí.
+  
+
+_Dveře automobilu se otevírají a řidič vystupuje ven z vozu. Slepýš slyší, jak si v dlani pohrává s klíči, téměř neslyšně do sebe narážejí._
 
 _„Asi jsem se… no nic… můžete mě svézt?“ ptá se Slepýš._
 
