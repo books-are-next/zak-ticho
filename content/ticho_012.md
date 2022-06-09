@@ -3,7 +3,9 @@ title: Oběť
 contentType: prose
 ---
 
-Mladý Doucha se potácí temnou nocí do kopce kolem hřbitova. Silnice se k němu nebezpečně přibližuje. Je jak na houpačce nebo na palubě rybářské bárky, která se probíjí na obřích vlnách bouří. Co chvíli může přepadnout přes okraj asfaltové paluby a skončit v hlubině mořské škarpy, což se opravdu nesčetněkrát děje. Vždy se však otřepe, znovu popadne Emila za ocas a vyrazí vstříc řítícím se hvězdám, z nichž se nakonec vyklubou spršky sněhových vloček.
+  
+
+_Mladý Doucha se potácí temnou nocí do kopce kolem hřbitova. Silnice se k němu nebezpečně přibližuje. Je jak na houpačce nebo na palubě rybářské bárky, která se probíjí na obřích vlnách bouří. Co chvíli může přepadnout přes okraj asfaltové paluby a skončit v hlubině mořské škarpy, což se opravdu nesčetněkrát děje. Vždy se však otřepe, znovu popadne Emila za ocas a vyrazí vstříc řítícím se hvězdám, z nichž se nakonec vyklubou spršky sněhových vloček._
 
 _Potácející se muž, sem tam odplivující, se psem přehozeným přes rameno. Vzájemná symbióza dvou omámených těl._
 
@@ -27,7 +29,9 @@ _Znovu nahýbá lahev a loká až do chvíle, kdy se i s židlí překotí vz
 
 _V maringotce je ticho. Jen dvě mršiny leží bezvládně – jedna na kavalci, druhá na zemi. Na stole stojí rozsvícená petrolejka._
 
-Vůz jede chumelenicí. Spolujezdkyně několikrát promluví ze snu, neprobudí se. Slepýš i přes bídnou viditelnost šlape na plyn, riskuje, že sjede z cesty. K maringotce doráží až pozdě v noci. Krajina od Alp po Šumavu je zavalená sněhem. Slepýš vystupuje, obchází vůz a otevírá dvířka u spolujezdkyně, ta dál spí. Neprobudí se, ani když ji uchopí v podpaždí a vyvleče ven. Kabelka sklouzne z jejího klína na podlahu vozu a zmizí pod sedadlem. Blondýnka jen cosi zadrmolí.
+  
+
+_Vůz jede chumelenicí. Spolujezdkyně několikrát promluví ze snu, neprobudí se. Slepýš i přes bídnou viditelnost šlape na plyn, riskuje, že sjede z cesty. K maringotce doráží až pozdě v noci. Krajina od Alp po Šumavu je zavalená sněhem. Slepýš vystupuje, obchází vůz a otevírá dvířka u spolujezdkyně, ta dál spí. Neprobudí se, ani když ji uchopí v podpaždí a vyvleče ven. Kabelka sklouzne z jejího klína na podlahu vozu a zmizí pod sedadlem. Blondýnka jen cosi zadrmolí._
 
 _Táhne ji sněhem k temnému obrysu maringotky. Okénko ozařuje skromný plamínek z petrolejky. U schůdků si přehodí tělo přes záda a snaží se jej vyvléci nahoru. Několikrát sklouzne, ale vždy jej včas zachytí. Po několika pokusech se i se spícím závažím dostává dovnitř maringotky._
 
@@ -315,7 +319,9 @@ Ticho.
 
 „Dnes ráno potratila.“
 
-Slepýš cítí obrovskou bolest v hlavě. Zase se mu chce zvracet. Ve vzduchu je cítit zatuchlina. Kolem sebe vnímá jen temnotu, žádné světlo, ani skulinku světla.
+  
+
+_Slepýš cítí obrovskou bolest v hlavě. Zase se mu chce zvracet. Ve vzduchu je cítit zatuchlina. Kolem sebe vnímá jen temnotu, žádné světlo, ani skulinku světla._
 
 _Ohmatává své tělo, ztuhlé zimou. Tře si rukama stehna. Pak se dotkne vlhkého kamene. Sjíždí po něm dlaní. Zná ten dotyk. V úrovni očí mu ruka projíždí hloub do zdi, do výklenku, v němž leží rozteklý koláček vosku. Je tuhý. Zapalovač. Škrt. V prostoru svítí plamínek. Zhasne._
 
@@ -433,7 +439,9 @@ Otec pomohl Slepýšovi na nohy.
 
 „Víš, synku, někdy i silnej chlap ujede. Marek je jenom nešťastnej, to je celý.“
 
-Madla vyráží o víkendu na výlet. Do Alp. Je pozvaná jedním z nevidomých studentů na chatu jeho rodičů. Bude slavit narozeniny. Sedí u velkého dřevěného stolu spolu s dvanácti slepci. Připadá si tak trochu jako Ježíš mezi učedníky. Ten výjev až příliš připomíná Poslední večeři Andrey del Castagna. Vedle ní spí mladík Pierre. Ostatní vtipkují, jestli je přepracovaný, nebo přebral z vína. Madla jediná vidí. Možná byl i Ježíš mezi svými žáky jediným vidoucím. Kdo ví?
+  
+
+_Madla vyráží o víkendu na výlet. Do Alp. Je pozvaná jedním z nevidomých studentů na chatu jeho rodičů. Bude slavit narozeniny. Sedí u velkého dřevěného stolu spolu s dvanácti slepci. Připadá si tak trochu jako Ježíš mezi učedníky. Ten výjev až příliš připomíná Poslední večeři Andrey del Castagna. Vedle ní spí mladík Pierre. Ostatní vtipkují, jestli je přepracovaný, nebo přebral z vína. Madla jediná vidí. Možná byl i Ježíš mezi svými žáky jediným vidoucím. Kdo ví?_
 
 _Slavnostní oběd má sedm chodů a protáhne se do pozdního odpoledne. Na to nebyla zvyklá. Doma dostal každý svou porci na talíři. Tady si nabírá z mís uprostřed stolu. A tak se nasytí už prvním chodem._
 
@@ -488,8 +496,6 @@ Z nebe padaly poslední sněhové vločky odcházející zimy. Sníh tál. Ledo
 Zuby cvakaly. Mokré oblečení se přilepilo na tělo.
 
 A znovu kleště prstů, sekání větví, zadní sedadlo vozu a řev motoru.
-
-  
 
 Slepýš natáčí hlavu směrem k východu. Škvírami sem proniká nejen čerstvý vzduch, ale i proužky ranního světla. Má pocit, že venku za dřevěnou stěnou slyší v dálce psí štěkot. Necítí chlad. Mrazivou zimu střídá konejšivé teplo. Četl o něm v povídkách Jacka Londona. Netuší, jestli promáčené oblečení proschlo. Nezajímá ho to.
 

@@ -3,8 +3,6 @@ title: Skvrny
 contentType: prose
 ---
 
-  
-
 Jakmile za nevítaným hostem zapadly dveře, Slepýš ztěžka usedl do křesla. Na tváři sice cítil teplo slunečních paprsků pronikajících sem střešním oknem, ale v žaludku… Hůř mu snad bylo jen tenkrát, když se stěhovala Madla.
 
 Impresionistické skvrny – tady teple oranžové, u očí světle žluté, pod bradou zas studeně namodralé – poskakovaly, šimraly tak, že je musel zaplašit na nose i kolem úst dlaní (alespoň na chvilku) a přejet si prsty obočí. Masíroval obličej se zběsilostí, s níž se odhánějí ovádi. V první chvíli chtěl podobně zběsile odehnat i chlápka, co mluví, jako když kovář buší do kovadliny, až vás z toho bolí uši.
