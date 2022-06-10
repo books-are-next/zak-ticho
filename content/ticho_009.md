@@ -3,6 +3,8 @@ title: Pozorovatel
 contentType: prose
 ---
 
+<section>
+
 V županu zamířil do pokoje. Třebaže probděl celou noc, nebyl unavený, naopak. Hodí na sebe čisté věci a vyrazí na krátkou procházku. Chodba byla chladná. Slepýš věděl, že venku je mráz. Zamířil k ustlané a spánkem nedotčené posteli. Otevřel okno a nechal se bombardovat sprškou sněhových vloček. Rychle okno zavřel. Ze skříně vyházel nažehlené trenýrky, ponožky a triko s dlouhým rukávem. Vše vonělo mýdlem, které matka vkládala mezi vyprané prádlo. Vrátil se do koupelny, kde na zemi ležely kalhoty a košile. Nahmatal je chodidlem a pak opatrně nabral nártem. Mírný výkop vyhoupl oba kusy najednou do jeho náruče. Navlékl staré záplatované manšestráky, košili přetáhl přes hlavu, nenamáhal se s rozepínáním knoflíků.
 
 Sešel po vrzajících schodech. Znovu jej napadlo, že musejí být prolezlé červotočem, a to i přes to, že prkna otec vloni napustil jakýmsi svinstvem proti hmyzu, brousil je a znovu přelakoval. Pomáhal mu. Podával jednotlivé kusy a chodil pro pivo.
@@ -91,7 +93,9 @@ Slepýš přemýšlel o švagrovi. Dneska se ukáže a bude chtít portrét. B
 
 Vrátil se v myšlenkách do předchozího dne. Švagr celou dobu hlučně přecházel po ateliéru a mluvil. Byl rozrušený. Slepýš nemohl odmítnout. Kývl na všechno, co po něm chtěl. Švagr na něho křičel, vyčetl mu všechno, všechno… Jejich rozhovor, spíš švagrův monolog, skončil, Slepýš usedl do křesla a chlap, co mluví, jako když kovář buší do kovadliny, odešel.
 
-  
+</section>
+
+<section>
 
 _Zavírá dveře ateliéru a těžkým unaveným krokem schází ze schodů dolů do chodby. Usedá na předposlední schod, obouvá si své hnědé polobotky a zavazuje tkaničky. U pravé boty ne a ne chytit kličku. Na tkaničce je uzel. Snaží se ho rozvázat, má však příliš velké prsty, velké a silné, dobré tak na páčení, zvedání, rozdávání ran, ne však na nimravou činnost, kterou rozvazování malých uzlů bezesporu je._
 
@@ -103,7 +107,9 @@ _Kvůli své postavě nemá moc kamarádů. S děvčaty je na tom po­dobně. M
 
 _Už se smiřuje s rolí starého mládence, když potkává Madlu, první ženu, která je schopná se do něho zamilovat._
 
-  
+</section>
+
+<section>
 
 Slepýš v něm ale _viděl_ hulváta a neotesance. Nenáviděl ho. Nejen proto, že si odvedl Madlu. Tehdy přijel bez ní, půl roku po svatbě, vytáhl slepce do lesa a tam ho poprvé chytil pod krkem. Byl by ho zabil. Madla se chtěla vrátit domů k rodičům. Aspoň na čas. Prý, aby se postarala o bratra. Slepýš tušil, že důvod je jiný.
 
@@ -115,7 +121,9 @@ Slepýš se sehnul a nabral do dlaní sníh. Přitiskl bílé krystaly zmrzlé 
 
 Chvíli stál na místě, zatímco Šaman štěkal a běhal sem tam. Nahoře usedne na zasněženou dřevěnou lavici, předtím z ní shrne sníh a nechá se olizovat sluncem i Šamanem.
 
-  
+</section>
+
+<section>
 
 _Včera ale Slepýš Marka překvapil. Vyslechl ho a hned souhlasil, sice stál uprostřed ateliéru jak vosková figurína, téměř bez pohybu, zato vzal celý problém vážně a poprvé mohl mít Marek pocit, že hovoří s dospělým mužem, a ne s přerostlým dítětem. Ano, včera byl půl hodiny dospělý._
 
@@ -181,7 +189,9 @@ _Marek ví, jak je svět prohnilý. Lidé jsou neřádi. Všude vládne bezpráv
 
 _Po necelé hodině se Markovi pohnou víčka, protře si je dlaněmi, protáhne tělo a vstane. Třebaže je prosinec, svlékne se, černé rifle složí úhledně na zem, na ně položí koženou hnědou bundu s kožešinovým límcem, košili i trenýrky s černými proužkovanými ponožkami. Vnoří se celý do černé vody, která se zakousne do svalů. Uplave tři tempa. Nohy vyběhnou po písku na protější straně řeky a ve vodě zůstávají jen chodidla a část lýtek, zbytek těla se tyčí nad hladinou. Má husí kůži. Marek vzpaží ruce k nebi a zařve._
 
-  
+</section>
+
+<section>
 
 „Zamyslel jste se a býval byste přešel nejkrásnější výhled, co znám,“ mužský hlas přetrhl představy jak ostrá žiletka.
 
@@ -261,11 +271,15 @@ Rozesmál se. Ve sněhu se válela dvě těla. Slepec dráždící šťouchanci 
 
 Slepýš nahmatal bílou hůlku, zapadla do návěje, chvilku ji musel zkřehlými prsty hledat. Pískl a opět napůl scházeli a napůl sklouzávali k prvním chalupám.
 
-  
+</section>
+
+<section>
 
 _Aby se Madla nebránila, dopuje ji muž jakousi drogou. Naloží ji do vozu. Pak vyrazí do noci. Přejede most přes Malši a pak dál křižovatkou po magistrále, co se stáčí kolem centra a vyplivne je u Výstaviště, odkud mohou pokračovat směrem na Prachatice. Veze ji na Šumavu, veze ji k vesnici. Do vsi však nevjede, zůstane stát na kopci u Douchovy maringotky. Tam Madlu vytáhne z vozu. Vleče ji k maringotce. Je hluboká noc. Ne, ne, to ne… Sakra, proč by měl vrah vozit omámenou Madlu k Douchovi do toho jeho smradlavého brlohu?_
 
-  
+</section>
+
+<section>
 
 „Šamane! Pojď pěkně u nohy. Budeme na silnici, tady nesmíš jen tak pobíhat. Co kdyby jelo auto a dostalo na té ledovce smyk? Tak, hodný pejsek.“
 
@@ -348,3 +362,5 @@ Nastartovali.
 Ne, naštěstí ne.
 
 Teď jen přežít cestu a modlit se, aby dostal švagr včas zprávu. Policie musí zasáhnout dřív, než ten chlap dostane do ruky busty.
+
+</section>

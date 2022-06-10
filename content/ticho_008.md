@@ -3,11 +3,15 @@ title: Myšlenky
 contentType: prose
 ---
 
+<section>
+
 Představte si sami sebe, jak sedíte v křesle. Za okny je kaluž tmy. V ulici nesvítí pouliční lampa, protože tam žádná není. Hvězdy září jasně, tak jasně, až máte pocit, když vyhlédnete ven, že jsou nízko a vy k nim můžete vztáhnout ruce. Sáhnete na ně, ale rychle ucuknete – hvězdy jsou žhavé, pálí jak drobné uhlíky, co vystřelily ven z krbu na podlahu. Vy sedíte a to všechno, o čem byla dosud řeč, si jen představujete. Jste totiž slepí, nic nevidíte. Jen světlo a tmu.
 
 Než vložil Slepýš cédéčko do přehrávače, představil si svou ses­tru, jak sedí se sklopenou hlavou za kuchyňským stolem. Slepýš často snil v bdělém stavu a představoval si, co právě dělají druzí lidé, nejčastěji Madla se švagrem.
 
-  
+</section>
+
+<section>
 
 _Je prostřeno pro dva. Stůl oblévá žloutkovým světlem keramický lustr, zdobený po okrajích rostlinným motivem. Na letmý pohled jemná jednoduchá kresba v duchu tradiční čínské kaligrafie. Třpytivé příbory. Talíře bílým porcelánem korespondují s bělostí ubrusu a prostírání, zřásněného třapatými chuchvalci nití. Bílé víno v čiré lahvi bez etikety připomíná svou barvou ranní moč. Zřejmě muškát nebo tramín._
 
@@ -15,19 +19,27 @@ _Madla si nalévá další sklenku, snad aby zabila čas. Slepýš ví, že ček
 
 _Madla přestala mít hlad už před hodinou. Stejně koprová omáčka vystydla a knedlíky bude třeba znovu hodit na pařák. Madla byla skvělá kuchařka, Slepýš se mohl po jejích omáčkách utlouct, proto si představil hrnec plný oblíbené koprovky. O to silnější averzi pocítil vůči švagrovi._
 
-  
+</section>
+
+<section>
 
 Vzpomněl si, jak ho učila dělat palačinky. Než připravil těsto, musel všechno předem osahat a ochutnat, i mouku. Byl na to zvyklý. Všechno osahával a ochutnával. Když se snažil lít těsto na pánev, trefil se častěji mimo. Celá kuchyň byla od mouky a těsta. Madla se mohla tehdy potrhat smíchy. Nakonec snědl pouhé tři – malé, vlastnoručně usmažené palačinky. Prý měl zamazaný obličej, košili i kalhoty. Madla musela téměř půldruhé hodiny uklízet a vytírat podlahu.
 
-  
+</section>
+
+<section>
 
 _Vnímal Madlu coby chápající manželku, jejíž muž – kriminalista – je plně vytížený prací; ty vraždy musí vyřešit dřív, než bude třetí adventní neděle, jinak se jim svátky rozpadnou do ostrých průhledných střepů. Ten chlap zabil už dvě ženy a je víc než pravděpodobné, že na příští i přespříští neděli chystá to samé: pomalu a s nelidskou chladnokrevností a systematičností připravit o život další dvě bez­branné dívky. Madla má vyvinutý dar empatie, dokáže se vcítit do člověka, který trpí, který se krčí v koutě a volá o pomoc; jako se dokázala vcítit do něho, do Slepýše, svého mladšího bratra, který během jejich dětských her spadl ze skály a oslepl. Vyčítala si, že jeho slepotu zavinila. Kdyby tehdy nešli ke Stožecké kapli a nahoru na skálu, nic by se nestalo a on by viděl. Nemusel by být odkázaný na její asistenci. Výčitky až dosud zaháněla myšlenkou, že i ona má právo na osobní příběh, na lásku a manželství, na svůj vlastní osud. Možná tím, jak Slepýše k sobě připoutala, mu jen ublížila… Možná by byl o to dřív samostatnější, možná, kdo ví?_
 
-  
+</section>
+
+<section>
 
 Slepýš vnímal svou osamělost coby bolest způsobenou cizí osobou. Myslel si, že i Madla v posledních týdnech pociťuje osamění, které nemůže připisovat na vrub adventnímu vrahovi ani svým sebeobviňujícím myšlenkám na bratra. Zdrojem její prázdnoty je vztah s Markem. Marek přestal fungovat jako partner daleko dřív, než se nějaký adventní vrah objevil. Slepýš byl o tom přesvědčený. Koncem září navštívila jeho i rodiče, mezi řečí vyplynulo, že se Marek vrací z práce čím dál později. Zpočátku aspoň zavolal, ale teď? Tak nějak se Madla svěřovala matce ve chvílích, kdy si myslela, že je Slepýš neslyší.
 
-  
+</section>
+
+<section>
 
 _První půlrok po svatbě prý chodívali na obědy, večeřeli taky spolu, buď doma, nebo v nějaké vybrané restauraci, nosil jí květiny. Nemohl se dočkat večera. Často se smála jeho rošťáckým nápadům. Jednou ji uprostřed noci probudil a že prý musí vyrazit ven, svítí krásně hvězdy a měsíc je v úplňku. Do zahrady vyšli jen tak – ona v průhledné noční košili a on v tričku a trenýrkách. Pozorovala souhvězdí, která jí ukazoval. V nestřeženém okamžiku ji strčil do bazénku, kam za ní nakonec skočil. Cákali na sebe vodu jako malé rozverné děti. Nepřemýšleli o možnosti, že by je některý ze sousedů mohl sledovat z okna. Bydlí v Havlíčkově kolonii, v jednom z domků se zahradou. Za plotem teče Malše. Tady je vždycky klid._
 
@@ -49,7 +61,9 @@ _Takže ani dnes spolu nepovečeří._
 
 _Zvedá se a uklízí hrnec s jídlem do lednice. Dolévá sklenici. Láhev je z poloviny prázdná._
 
-  
+</section>
+
+<section>
 
 Slepýš se donutil nemyslet na Madlu. Musí se pustit do práce. Stále dokola si připomínal, že teď jsou v sázce další nevinné životy. Portrét vraha musí být hotový včas.
 
@@ -203,7 +217,9 @@ Jakmile měl připravených všech šestnáct hádků, vyšel z ateliéru do ch
 
 Když Sting zpíval hit Roxanne, Slepýš se přidal. „Roxanne / You don’t have to put on the red light / Those days are over / You don’t have to sell your body to the night.“ Myšlenky na ticho byly zapomenuty, úzkost odplula kamsi ke dnu, do podvědomí. „Roxanne / You don’t have to wear that dress tonight / Walk the streets for money / You don’t care if it’s wrong or if it’s right.“ Slepýš nevnímal čas. Soustředil se na práci. Vybavoval si, co mu ten muž povídal, jak zněl jeho hlas. Snažil se do něho vcítit, představit si podobu tváře, tvar hlavy, nosu, úst. Občas mu však myšlenky ulétly k Madle.
 
-  
+</section>
+
+<section>
 
 _Ona stále sedí u kuchyňského stolu. Pohrává si s mobilním telefonem, aby mohla zavolat své kamarádce z vysoké školy, s níž bydlela na privátu. Domlouvají si schůzku. Madla vchází do ložnice, kde má ve skříni uložené šaty. Obléká si tmavé přiléhavé džíny, dobře v nich vyniknou boky a stehna, a halenku v barvě bordó s nápadně vykrojeným výstřihem. Sama sebe přesvědčí, že si ji obléká proto, aby byl vidět zlatý řetízek s vltavínem._
 
@@ -243,13 +259,17 @@ _„No tak, holka, já to tak nemyslela, promiň.“_
 
 _„To je dobrý… ty za to… přece nemůžeš, že on…“_
 
-  
+</section>
+
+<section>
 
 Cédéčko dohrálo. Slepýš se myšlenkami vrátil do ateliéru, odstoupil od stojanu a zmáčkl repeat. Snažil se zas soustředit jen na podobu muže, který si objednal busty mladých dívek; na muže, který je podle policie vrahem.
 
 Hnětl v dlaních hlínu, přidával ji ke kostře vytvořené z hádků. Čím dál častěji ohmatával rodící se hlavu. Nebyl s prací spokojený. Co když Slepýše zmýlily myšlenky na Madlu? Je to pravděpodobné. Bustu odložil na stranu a nechal ji rozdělanou. Zkusí to znovu. Vzal další krabici od mléka. Z velké bedny vylovil novou hroudu mazlavé hlíny. Modeloval drobné hádky. Pečlivě, aby byl jeden jako druhý. „I loved you since I knew you / I wouldn’t talk down to you / I have to tell you just how I feel / I won’t share you with another boy.“ A zas byl u Madly. Stále se mu vtírala do vědomí. Tam uvnitř hlavy ji měl, viděl ji, představoval si její tvář, tělo, prsa, boky, jak vypadá – dospělá mladá žena.
 
-  
+</section>
+
+<section>
 
 _Svěřuje se kamarádce se svým trápením. Obě sedí, upíjejí víno. Druhá žena na souhlas pokyvuje hlavou. Pak mezi nimi na chvíli zavládne ticho, které naruší protřelejší kamarádka._
 
@@ -271,13 +291,17 @@ _Zastaví se u prosklených divadelních poutačů před zadním východem pro 
 
 _Madla vejde do černého stínu, nad její hlavou projede auto. Je stále zahloubaná do svých úvah a představ, vidí Marka nešťastně přikrčeného v rohu postele. Uvědomí si, jak moc toho muže miluje, jak moc s ním chce mít děti. Jak je vzdálený…_
 
-  
+</section>
+
+<section>
 
 Slepýš neklidně přešlápl.
 
 Z telefonu se ozvala hudba z filmu Růžový panter. Rychle si utřel ruce od hlíny do pracovního pláště. Už už sahal po koženém pouzdru, které viselo u pasu kalhot, když si uvědomil, že si mobil stejně zamaže. Sebral se a šel si umýt ruce. Snažil se nevnímat vtíravou melodii. Mobil ztichl. Ruce si osušil. Nahmatal opěradlo křesla a usedl. Telefon držel v ruce. Čekal, až švagr opět zavolá. Čekal a představil si Madlu, vysvlékl ji a hladil vnitřním zrakem se zatajeným dechem. Pocítil silnou erekci.
 
-  
+</section>
+
+<section>
 
 _Zvoní jí telefon, sáhne po něm s radostí, čeká Markův hlas._
 
@@ -317,7 +341,9 @@ _Zděsí se. Mezi stromy stojí u krajnice auto a vedle něj temná silueta mu
 
 _Madla se rozběhne. Vytočí číslo svého manžela. Obsazeno._
 
-  
+</section>
+
+<section>
 
 Melodie z Růžového pantera vyrušila vlny vzrušujících představ. Už je tu zpět černobílý svět ateliéru a rozdělaných podobizen. Šedivá mlha.
 
@@ -385,7 +411,9 @@ Ticho.
 
 Slepýš zůstal sedět v křesle. Potom se zvedl, vyndal cédéčko s The Police, vrátil jej do plastového obalu a zařadil. Prsty přejížděl po discích, jako by vybíral podle nápisů na hřbetech. Nechal však cédéčka být a přesunul svůj _pohled_ k černým vinylovým deskám. Dnes udělá výjimku. Pustí si k práci jednu ze svých oblíbených desek. Mozartovo Rekviem. Pak přistoupil ke stojanu. Dokončil novou kostru a začal přidávat hmotu. Soustřeď se na něho! Nabádal sám sebe. Snažil se z hlavy vypudit vtíravé myšlenky na švagra a na Madlu. Na nahou Madlu.
 
-  
+</section>
+
+<section>
 
 _Madla utíká průrvou mezi živým plotem a stromy lemujícími břehy řeky. Často se otáčí, jen aby zahlédla pronásledovatele, toho muže, co přivazuje mladé ženy ke kovové konstrukci postele, co je mučí a týrá, co má hlas jako nějaký herec. Za ní se prostírá zhmotnělá nehybnost a temnota._
 
@@ -405,11 +433,15 @@ _Muž ji táhne chodbou až k nejbližšímu pokoji. Loktem stlačí kliku pros
 
 _Muž Madlu přesouvá k jedné z dřevěných židlí a tlakem ji usazuje. Rychlým pohybem přesune dlaň z úst ke krku. Prsty přitlačí a ona, než omdlí, krátce vykřikne._
 
-  
+</section>
+
+<section>
 
 Slepýš jako v horečce modeloval podobu muže, který ohrožuje jeho sestru. Nevnímal hudbu ani silnou chumelenici za oknem. Byl pohroužen do sebe. Potil se.
 
-  
+</section>
+
+<section>
 
 _Madla se probírá. Leží na manželské posteli. Ruce a nohy má v kotnících svázané elastickou páskou. Ústa má volná._
 
@@ -423,7 +455,9 @@ _Je překvapený klidem a odvahou té ženy._
 
 _Nic v její tváři nenaznačuje, že by měla strach. Cosi neviditelného, co visí mezi ní a mužem, ji uklidňuje a dává sílu. Že by skutečnost, že je doma? Ve svém vlastním prostoru? Že tady je vládkyní ona, a ne on? Možná._
 
-  
+</section>
+
+<section>
 
 Slepýše vyrušil praskající zvuk jehly, která zůstala viset na desce a stále dokola drhla o její konec. Mechanismus automatického vypínání selhal.
 
@@ -476,3 +510,5 @@ Celou noc stál u stojanu. Až nyní pocítil únavu.
 Všechny tři hlavy navlhčil rozprašovačem. Bude na nich ještě pracovat přes den. Zabalí je později. Jen musí dávat pozor, aby hlína neztvrdla. Nesmí vyschnout.
 
 Sundal si pracovní plášť, pověsil jej na skobu zatlučenou do trámu u dveří. Z rádia zaznívaly tóny Bachových Braniborských koncertů. Rozhovor s kvantovým fyzikem skončil před několika hodinami. Ani si toho nevšiml. Jediné, co mu utkvělo v paměti, byla slova o myšlenkách. Lekl se, když si uvědomil, co všechno ve svých představách s Madlou dělal. Uklidnil se až v koupelně, když na sebe ve sprchovém koutu nechal proudem téct teplou vodu. Uchlácholil se tím, že ne všechny myšlenky se zhmotní. Zas takovou moc nemají. Alespoň ty jeho ne. Celý se namydlil. Voda příjemně smývala nejen dotěrné myšlenky, ale i únavu z probdělé noci.
+
+</section>
