@@ -3,7 +3,7 @@ title: Oběť
 contentType: prose
 ---
 
-  
+<section>
 
 _Mladý Doucha se potácí temnou nocí do kopce kolem hřbitova. Silnice se k němu nebezpečně přibližuje. Je jak na houpačce nebo na palubě rybářské bárky, která se probíjí na obřích vlnách bouří. Co chvíli může přepadnout přes okraj asfaltové paluby a skončit v hlubině mořské škarpy, což se opravdu nesčetněkrát děje. Vždy se však otřepe, znovu popadne Emila za ocas a vyrazí vstříc řítícím se hvězdám, z nichž se nakonec vyklubou spršky sněhových vloček._
 
@@ -29,7 +29,9 @@ _Znovu nahýbá lahev a loká až do chvíle, kdy se i s židlí překotí vz
 
 _V maringotce je ticho. Jen dvě mršiny leží bezvládně – jedna na kavalci, druhá na zemi. Na stole stojí rozsvícená petrolejka._
 
-  
+</section>
+
+<section>
 
 _Vůz jede chumelenicí. Spolujezdkyně několikrát promluví ze snu, neprobudí se. Slepýš i přes bídnou viditelnost šlape na plyn, riskuje, že sjede z cesty. K maringotce doráží až pozdě v noci. Krajina od Alp po Šumavu je zavalená sněhem. Slepýš vystupuje, obchází vůz a otevírá dvířka u spolujezdkyně, ta dál spí. Neprobudí se, ani když ji uchopí v podpaždí a vyvleče ven. Kabelka sklouzne z jejího klína na podlahu vozu a zmizí pod sedadlem. Blondýnka jen cosi zadrmolí._
 
@@ -103,7 +105,9 @@ _„Z vesnice sem není vidět. Nikdo si toho ohně nevšiml, výhled zakrývá
 
 _„Řekl jsem volarskejm klukům, ať to ohraděj páskou a na nic nešahaj. Stopy zasypal sníh. Uvidíme, co najdem v těch troskách.“_
 
-  
+</section>
+
+<section>
 
 Se Slepýšem kdosi cloumá. Všude kolem je černočerná tma.
 
@@ -225,7 +229,9 @@ Slepýš pokrčil rameny.
 
 „Tak to vemte jed na to, že na Novým Údolí je takovejch mínus patnáct, možná víc.“
 
-  
+</section>
+
+<section>
 
 Všechny všední dny věnoval Slepýš modelování. Učitel Pavel svolil, že v sobotu roztopí naposledy v tomto roce pec, jen proto, aby mohl Slepýš uspokojit všechny své zákazníky.
 
@@ -319,7 +325,9 @@ Ticho.
 
 „Dnes ráno potratila.“
 
-  
+</section>
+
+<section>
 
 _Slepýš cítí obrovskou bolest v hlavě. Zase se mu chce zvracet. Ve vzduchu je cítit zatuchlina. Kolem sebe vnímá jen temnotu, žádné světlo, ani skulinku světla._
 
@@ -341,7 +349,9 @@ _Nevolnost ustává._
 
 _Choulí se. Pod dekami je jen udusaná zem a na ní vrstva shnilé slámy. Nic víc._
 
-  
+</section>
+
+<section>
 
 Před necelou hodinou odešel Jindřich Drtikol. Rozloučil se, vracejí se s rodinou k Waldenskému jezeru. Slepýš netušil, že se _vidí_ naposledy. Po vědcově odchodu měl pocit prázdnoty. Jako by se nikdy nepotkali. Chtěl uvěřit naléhavé myšlence, že si Henryho Drtiče jen vysnil. Že ten podivín, co stále mentoruje, žije jen v jeho fantazii, stejně jako Thoreau. Slepýš rozdělal práci. Hnětl hlínu mezi prsty, aby mohl vymodelovat drobné hádky. Dnes začne pod jeho rukama růst velká váza zdobená rostlinným motivem.
 
@@ -439,7 +449,9 @@ Otec pomohl Slepýšovi na nohy.
 
 „Víš, synku, někdy i silnej chlap ujede. Marek je jenom nešťastnej, to je celý.“
 
-  
+</section>
+
+<section>
 
 _Madla vyráží o víkendu na výlet. Do Alp. Je pozvaná jedním z nevidomých studentů na chatu jeho rodičů. Bude slavit narozeniny. Sedí u velkého dřevěného stolu spolu s dvanácti slepci. Připadá si tak trochu jako Ježíš mezi učedníky. Ten výjev až příliš připomíná Poslední večeři Andrey del Castagna. Vedle ní spí mladík Pierre. Ostatní vtipkují, jestli je přepracovaný, nebo přebral z vína. Madla jediná vidí. Možná byl i Ježíš mezi svými žáky jediným vidoucím. Kdo ví?_
 
@@ -455,7 +467,9 @@ _Otvorem, který býval oknem, vidí divokou skrumáž mraků. Z nebe padá kru
 
 _Je sama. Noří se hlouběji do chodby. Prošla ložnicí a bývalým muničním skladem. Je tam šero. Před ní jsou povalená vrata, zapřená dřevěným kůlem. Zakrývají otvor do sklepní místnosti. Nad vraty je široká škvíra. Ze zvědavosti do ní nahlédne. Lekne se. Uvnitř je výklenek s rozteklým voskem po svíčkách. Na shnilé slámě leží hromada špinavých dek a spacák. V něm někdo leží. Nehýbe se._
 
-  
+</section>
+
+<section>
 
 Marek přijel svým starým bavorákem. Vběhl do ateliéru a vše, co mu stálo v cestě – stojany s rozdělanými bustami, nádobami a hrnky – v záchvatu zuřivosti porážel, ničil, než se dostal k němu. Rodiče nebyli doma. Ráno jeli do města.
 
@@ -463,7 +477,9 @@ Popadl Slepýše a bil ho pěstmi do tváře, slabin a krku. Vytáhl ho z mí
 
 Potlučené tělo na dvoře vtlačil do bavoráku. Ruce spoutal policejními želízky. Šlápl na plyn.
 
-  
+</section>
+
+<section>
 
 Sousedka Růža Málková seděla před chalupou a dívala se do krajiny. Popíjela už vychladlou kávu. Viděla, jak přijel Marek, vyběhl ze svého vozu a spěchal do domu. Chvilku se nic nedělo. Pak měla pocit, že kriminalista vleče na dvůr potlučeného Slepýše, že do něho mlátí a kope. V tu chvíli se rychle zvedla a zašla do chodby, aby byla co nejrychleji ve své útulné kuchyni.
 
@@ -473,7 +489,9 @@ Nalila vodu do konvice a tu postavila na sporák. Do hrnku zatím nasypala čer
 
 Po několika přečtených větách už si na výjev ze sousedního dvorku nevzpomněla. Připomene se jí až druhý den, kdy se budou Slepýšovi rodiče ptát po okolí, jestli někdo neviděl jejich syna. Nevrátil se na noc domů. Zmizel.
 
-  
+</section>
+
+<section>
 
 Slepýš netušil, kam ho veze. Jen z obrovské dálky slyšel nepříjemný hlas, jako když kovář buší do kovadliny.
 
@@ -481,7 +499,9 @@ Slepýš netušil, kam ho veze. Jen z obrovské dálky slyšel nepříjemný hl
 
 Pak Slepýš omdlel.
 
-  
+</section>
+
+<section>
 
 Probral se až ve chvíli, kdy ho silná ruka táhla mezi křovisky. Větve sekaly do odhalené kůže. Svědila a pálila, jak po doteku žhavých šlahounů.
 
@@ -504,3 +524,5 @@ Temná místnost. Její stěny tvoří kamenné kvádry porostlé mechem a liš
 Slepýš leží ve spacáku. Už se nehýbe. Leží na zádech. Téměř splývá s temnými zákoutími sklepa. Je oblečený do tmavých zablácených kalhot a košile. Pruh světla proniká do prostoru a dopadá na jeho tvář. Oči. Jsou otevřené. Leskne se v nich pouze bělmo. Nic víc.
 
 Hluboko za nimi probublává pramen. Vyvěrá zpod Stožecké kaple. Životodárný pramen. Vyléčí každou ránu. Navrátí zrak slepci tak jako tenkrát Jakubu Klauserovi z Volar. Tam za těma očima se rodí nový svět, pro vypravěče neuchopitelný a zamlžený. Pro nás neviditelný. Ticho.
+
+</section>

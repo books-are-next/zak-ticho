@@ -3,6 +3,8 @@ title: Skvrny
 contentType: prose
 ---
 
+<section>
+
 Jakmile za nevítaným hostem zapadly dveře, Slepýš ztěžka usedl do křesla. Na tváři sice cítil teplo slunečních paprsků pronikajících sem střešním oknem, ale v žaludku… Hůř mu snad bylo jen tenkrát, když se stěhovala Madla.
 
 Impresionistické skvrny – tady teple oranžové, u očí světle žluté, pod bradou zas studeně namodralé – poskakovaly, šimraly tak, že je musel zaplašit na nose i kolem úst dlaní (alespoň na chvilku) a přejet si prsty obočí. Masíroval obličej se zběsilostí, s níž se odhánějí ovádi. V první chvíli chtěl podobně zběsile odehnat i chlápka, co mluví, jako když kovář buší do kovadliny, až vás z toho bolí uši.
@@ -229,7 +231,9 @@ Došli k otevřeným vrátkům, která hned za nimi zavřel, a zatímco Šaman
 
 Rozsvítil světlo, aby vnímal jeho mléčnou přítomnost. Nechtěl být ve tmě ve chvíli, kdy si pustí tu dvouhodinovou nahrávku, co mu tady zanechal jeho švagr kriminalista. Usedl do křesla. Dlaně pevně sevřely polstrovaná opěradla. Musí stihnout vymodelovat podobiznu dřív, než zabije další mladou ženu; dřív, než si třeba vyhlédne někde v davu Madlu.
 
-  
+</section>
+
+<section>
 
 Růža Málková nemohla usnout. Poté, co se vrátila domů z hospody, si uvařila silný lipový čaj do velkého bílého hrnku s červenými kolečky podél okraje. Pila z něho odjakživa. Hrst uschlých květů vhodila na dno a zalila vřící vodou. Čaj nechávala louhovat kolem dvaceti minut, pak teprve do něho vložila lžíci plnou květového medu a vymačkala citron.
 
@@ -262,3 +266,5 @@ Růža Málková spala spokojeným spánkem důchodkyně.
 Pod oknem v chumelenici zmizel vůz podobný tomu ze snu.
 
 Netušila, že krajinu pokryla bílá zástěra, kterou jak krajky při­živovaly nové a nové přívaly sněhu. Rtuť na teploměru spadla hluboko pod nulu.
+
+</section>

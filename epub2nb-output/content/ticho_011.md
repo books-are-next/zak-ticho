@@ -3,7 +3,7 @@ title: Útěk naslepo
 contentType: prose
 ---
 
-  
+<section>
 
 _Slepýš se opírá o kapotu vozu. Není horká. Musí to být buď někdo z lufťáků…, nebo… místních! Pokud je místní, tak proboha kdo? Všechny tady zná! Ne, nikdo z našich to být nemůže, je to jistě nějaký ten Pražák, nebo odkud vlastně ti lidé přiharcovali._
 
@@ -171,11 +171,15 @@ _Cítí, že má omrzlý nos. Rychle ho mne dlaní. V myšlenkách si přehráv
 
 _Ztěžka popadá dech. Zapaluje třetí svíčku. Prsty zahřívá nad plamenem. Zimnice. Mráz a horko. Třese se. Uléhá. Potácí se na hranici mezi bděním a spánkem, v nicotě mezi bytím a nebytím, mezi ničím a něčím. Modlí se, aby už brzy bylo ráno. Chce cítit slunce. Chce slyšet z venčí nějaké zvuky. Bojí se ticha._
 
-  
+</section>
+
+<section>
 
 Slepýš _spatřil_ mléčnou bělost. Byla všude kolem. Pokusil se pohnout. Tělo vězelo v jakési pevné hlubině, vpasované do hmoty jak muška do jantaru. Dal do pohybu víc síly a zaúpěl. Stačilo jen malinko hlavu natočit do strany a silná bolest ji naplnila od krku až po temeno. Tak to jsou permoníci, napadlo ho. Znal je, už několikrát prokutali jeho mozkovými závity až ke kosti, vždy po konzumaci většího množství alkoholu. Vzpomněl si na několik výjevů ze včerejšího večera. Držel se kolem ramen se Standou a jeho synem, zpívali Škoda lásky. Pak přípitky snad s každým, kdo v hospodě seděl. Růža Málková, několikrát se ho ptala, jestli by už nešel domů, nakonec její hlas zmizel. Odešla sama. Opilecké řeči a pak ta hádka s Douchou. Ano, teď si vzpomněl, oni na sebe křičeli. Neví co, neví proč, ale cítil až příliš blízko svého obličeje jeho alkoholový dech a slyšel nesrozumitelné ožralé výhružky. Doucha na něj řval, že ho zabije, a on na Douchu, že co nevidět ho policajti stejně seberou. Oni vědí, že je namočený do těch vražd. Chlapi je museli od sebe odtrhnout. Pak už si pamatuje jen obrovské vlny a jeho kroky po palubě neklidné bárky. Jen útržky, nic víc. Netušil, kde je. Až když se pohnul, pochopil.
 
-  
+</section>
+
+<section>
 
 _„Vy kouříte?“_
 
@@ -195,7 +199,9 @@ _„Když jsem vás poprvé potkal, napadlo mě, že jsem si vás vymyslel, že 
 
 _„A je hranice mezi představou a realitou skutečně tak důležitá?“_
 
-  
+</section>
+
+<section>
 
 „Slepýši, proč nebereš mobil?“
 
@@ -380,3 +386,5 @@ Když povídka skončila, Jindřich Drtikol rádio vypnul.
 Drtič se zasmál.
 
 „Tak to je zas můj rituál. A navíc mi kouření chutná.“
+
+</section>
