@@ -1,0 +1,256 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Ticho",
+  "author": "David Jan Žák",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "zak-ticho-a5d1dc2",
+  "revision": "a5d1dc2",
+  "readingOrder": [
+    "promo.html",
+    "ticho_005.html",
+    "ticho_006.html",
+    "ticho_007.html",
+    "ticho_008.html",
+    "ticho_009.html",
+    "ticho_010.html",
+    "ticho_011.html",
+    "ticho_012.html",
+    "ticho_013.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 09 2022 08:48:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660034904662
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ticho_005.html",
+      "toc": []
+    },
+    {
+      "title": "Ticho",
+      "file": "ticho_005.html",
+      "words": 27,
+      "chars": 145,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "ticho_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ticho",
+      "file": "ticho_006.html",
+      "words": 149,
+      "chars": 942,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ticho_005.html",
+      "next": "ticho_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skvrny",
+      "file": "ticho_007.html",
+      "words": 4518,
+      "chars": 26723,
+      "ideas": 130,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ticho_006.html",
+      "next": "ticho_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skvrny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Myšlenky",
+      "file": "ticho_008.html",
+      "words": 6189,
+      "chars": 36945,
+      "ideas": 222,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ticho_007.html",
+      "next": "ticho_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Myšlenky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozorovatel",
+      "file": "ticho_009.html",
+      "words": 4430,
+      "chars": 26089,
+      "ideas": 168,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ticho_008.html",
+      "next": "ticho_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pozorovatel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Světlo a tma",
+      "file": "ticho_010.html",
+      "words": 11952,
+      "chars": 70539,
+      "ideas": 481,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ticho_009.html",
+      "next": "ticho_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Světlo a tma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Útěk naslepo",
+      "file": "ticho_011.html",
+      "words": 4758,
+      "chars": 27694,
+      "ideas": 186,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ticho_010.html",
+      "next": "ticho_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Útěk naslepo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oběť",
+      "file": "ticho_012.html",
+      "words": 6164,
+      "chars": 36691,
+      "ideas": 241,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ticho_011.html",
+      "next": "ticho_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oběť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ticho",
+      "file": "ticho_013.html",
+      "words": 146,
+      "chars": 962,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ticho_012.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 133,
+      "chars": 854,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "ticho_013.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 38472,
+      "chars": 227613,
+      "ideas": 1455
+    },
+    "chapters": {
+      "words": 38333,
+      "chars": 226730,
+      "ideas": 1435
+    }
+  }
+}
