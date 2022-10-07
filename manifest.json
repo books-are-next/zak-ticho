@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zak-ticho-2b837c2",
-  "revision": "2b837c2",
+  "identifier": "zak-ticho-dd78a5a",
+  "revision": "dd78a5a",
   "readingOrder": [
     "promo.html",
     "ticho_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:09:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924964461
+    "date": "Fri Oct 07 2022 13:51:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150708956
   },
   "documents": [
     {
