@@ -9,7 +9,8 @@
       "modified": "2020-01-27T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2793-2"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "ticho_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Do rozbřesku zbývá..."
+            "title": "Do rozbřesku zbývá...",
+            "children": []
           },
           {
             "filename": "ticho_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Skvrny"
+            "title": "Skvrny",
+            "children": []
           },
           {
             "filename": "ticho_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Myšlenky"
+            "title": "Myšlenky",
+            "children": []
           },
           {
             "filename": "ticho_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pozorovatel"
+            "title": "Pozorovatel",
+            "children": []
           },
           {
             "filename": "ticho_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Světlo a tma"
+            "title": "Světlo a tma",
+            "children": []
           },
           {
             "filename": "ticho_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Útěk naslepo"
+            "title": "Útěk naslepo",
+            "children": []
           },
           {
             "filename": "ticho_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Oběť"
+            "title": "Oběť",
+            "children": []
           },
           {
             "filename": "ticho_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Poděkování"
+            "title": "Poděkování",
+            "children": []
           },
           {
             "filename": "ticho_014.md",
@@ -375,6 +376,6 @@
       "user": "books-are-next",
       "repo": "zak-ticho"
     },
-    "generatedAt": 1665415625743
+    "generatedAt": 1665768824252
   }
 }

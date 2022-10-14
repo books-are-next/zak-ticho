@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zak-ticho-e898b4b",
-  "revision": "e898b4b",
+  "identifier": "zak-ticho-47e4c48",
+  "revision": "47e4c48",
   "readingOrder": [
     "promo.html",
     "ticho_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:44:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416648245
+    "date": "Fri Oct 14 2022 17:35:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665768932351
   },
   "documents": [
     {
@@ -223,9 +223,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 133,
-      "chars": 856,
-      "ideas": 16,
+      "words": 137,
+      "chars": 893,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "ticho_013.html",
@@ -243,9 +243,9 @@
   ],
   "totals": {
     "all": {
-      "words": 38472,
-      "chars": 227615,
-      "ideas": 1455
+      "words": 38476,
+      "chars": 227652,
+      "ideas": 1456
     },
     "chapters": {
       "words": 38333,
