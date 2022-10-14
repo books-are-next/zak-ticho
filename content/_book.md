@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2793-2
 readingOrder:
   - promo.html
   - ticho_005.html
